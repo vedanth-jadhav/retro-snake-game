@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.vedanthjadhav.retrosnake" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Retro Snake Game</name>
+    <description>A retro snake game for mobile.</description>
+    <author email="vedanthjadhav2009@gmail.com" href="https://github.com/vedanth-jadhav">Vedanth Jadhav</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="true" />
+</widget>
